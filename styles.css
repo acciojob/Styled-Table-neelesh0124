@@ -1,5 +1,18 @@
 /* your code */
-#table-header{
+
+#row1{
 	color:white;
-	background-color:steelblue
+	background-color:steelblue;
+}
+#row2{
+	color:black;
+	background-color:white;
+}
+#row3{
+	color:black;
+	background-color:lightgray
+}
+#row4{
+	color:black;
+	background-color:white;
 }
